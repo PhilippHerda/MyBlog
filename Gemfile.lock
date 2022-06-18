@@ -224,7 +224,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
-  image_processing (~> 1.2)
+  image_processing
   importmap-rails
   jbuilder
   puma (~> 5.0)
